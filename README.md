@@ -2,8 +2,6 @@
 - 👀 I’m interested in ...
 - Coding
 - Learning
-- Crocheting
-- Evacuation Plans
 
 - 🌱 I’m currently learning ...
 - Python
